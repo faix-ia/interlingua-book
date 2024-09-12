@@ -163,7 +163,7 @@ b, d, f, k, l, m, n, r, v, w, z \[б], \[д], \[ф], \[к], \[л], \[м], \[н],
 
 В самом конце письменно выполните упражнения, которые даются в приложении и ответьте на вопросы, следующие за текстом (le questiones). Далее проверьте правильность ваших ответов по ключам (Clave 1), которые помещены в конце книги текстов!
 
-## Lection un / Prime lection
+## Lection un - Prime lection
 
 Vos vide un libro, un [#id-1](./#id-1 "mention") libro nigre. Le [#id-3](./#id-3 "mention") libro es nigre. &#x20;
 
@@ -268,3 +268,48 @@ placeholder
 #### 8
 
 &#x20;_Libros nigre_ (черные книги). Имя прилагательное имеют единственную форму, не зависящую от рода и числа существительных.
+
+## &#x20;Lection duo -  Secunde lection
+
+Le juvene senior reguarda le juvene dama. Illa [#id-6](./#id-6 "mention") es un senioretta belle, e ille la [#id-7](./#id-7 "mention") reguarda con interesse. Nostre amico es un senior elegante, sed illa tamen le [#id-7](./#id-7 "mention") reguarda sin interesse. - Nos debe constatar  [#id-9](./#id-9 "mention")  iste facto "tragic" jam nunc. - Ille pensa: "Io es fatigate; io debe seder [#id-9](./#id-9 "mention")." Ille dice a illa [#id-12](./#id-12 "mention"): "Excusa [#id-11-1](./#id-11-1 "mention") me, senioretta! Esque vos permitte que io me sede?" Illa non responde per parolas, sed face un signo con la capite.
+
+**QUESTIONES**
+
+1. Que face le senior?
+2. Esque ille la reguarda sin interesse?
+3. Qui es elegante?
+4. Que pensa le juvene senioretta?
+5. Esque le senior es multo fatigate?
+
+### **Lista de vocabulos**
+
+|            |         |         |                        |
+| ---------- | ------- | ------- | ---------------------- |
+| secunde    | второй  | debe    | должны                 |
+| juvene     | молодой | iste    | этот                   |
+| illa       | она     | facto   | факт                   |
+| senioretta | девушка | jam     | уже                    |
+| con        | с       | seder   | сидеть                 |
+| interesse  | интерес | dice    | говорит                |
+| tamen      | однако  | per     | предлог творит. падежа |
+| sin        | без     | parolas | слова                  |
+| nos        | мы      | capite  | голова                 |
+| multo      | очень   |         |                        |
+
+#### 7.&#x20;
+
+#### 8
+
+#### 9
+
+#### 10
+
+#### 11
+
+#### 11
+
+#### 12
+
+#### &#x20;
+
+***
